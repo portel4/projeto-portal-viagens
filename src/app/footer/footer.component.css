@@ -1,0 +1,33 @@
+#text1 {
+    color: #365463
+}
+
+#form {
+    width: 555px;
+    margin: auto;
+    height: 375px;
+}
+
+#btConsultar {
+    border: none;
+    height: 43px;
+}
+
+#DataVolta,
+#DataPartida,
+#Origem,
+#Destino {
+    margin-top: -10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0%;
+
+}
+
+#DataVolta:focus,
+#DataPartida:focus,
+#Origem:focus,
+#Destino:focus {
+    box-shadow: none;
+}
